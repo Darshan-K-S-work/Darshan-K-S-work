@@ -1,5 +1,4 @@
-## Hey there 👋
-## I'm Darshan K S <img src="https://media.tenor.com/images/53fd1d931175d1d52b4312aeeba18b69/tenor.gif" alt=":copyright:" width="50"/>
+## Hey there 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />>
 
 <!--
 **Darshan-K-S-work/Darshan-K-S-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
