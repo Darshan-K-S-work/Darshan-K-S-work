@@ -1,7 +1,7 @@
-## Hey there 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## Hey there 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt=":cat:" width="50" />
 I'm Darshan K S, I'm currently studying CSE in Manipal Institute of Technology.
 
-I'm a robotics enthusiast and currently pursuing Full Stack development. 
+I'm a robotics enthusiast :gear: and currently pursuing Full Stack development :computer:. 
 ###
 
 
