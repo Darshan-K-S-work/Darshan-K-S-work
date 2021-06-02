@@ -6,6 +6,7 @@ I'm a robotics enthusiast :gear: and currently pursuing Full Stack development :
 ###
 
 - 🌱 I’m currently learning Javascript and frameworks.
+- 👯 I’m looking to collaborate on front-end Dev.
 
 "The problem with the world is that everyone is a few drinks behind." ~ Humphrey Bogart
 
