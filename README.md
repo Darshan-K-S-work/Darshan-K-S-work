@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt=":cat:" width="50" />
+## How you Doin 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt=":cat:" width="50" />
 I'm Darshan K S, I'm currently studying CSE in Manipal Institute of Technology.
 
 I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :computer:. 
@@ -7,9 +7,16 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 - 🌱 I’m currently learning Javascript and frameworks.
 - 👯 I’m looking to collaborate on front-end Dev.
-- ⚡ Fun fact: () and I play basketball	:basketball: 
+- ⚡ Fun fact: (I daydream a lot) and I play Basketball :basketball: .
 
 "The problem with the world is that everyone is a few drinks behind:beer:." ~ Humphrey Bogart
+
+
+
+
+
+
+
 
 
 
