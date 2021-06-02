@@ -1,4 +1,9 @@
 ## Hey there 👋 I'm Darshan K S <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+I'm Darshan K S, I'm currently studying CSE in Manipal Institute of Technology.
+
+I'm a robotics enthusiast and currently pursuing Full Stack development. 
+###
+
 
 <!--
 **Darshan-K-S-work/Darshan-K-S-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
