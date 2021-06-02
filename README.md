@@ -13,7 +13,7 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 ### Connect with me 🔗
 
-[![LinkedIn]()](https://www.linkedin.com/in/darshan-k-s/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-k-s/)
 
 
 
