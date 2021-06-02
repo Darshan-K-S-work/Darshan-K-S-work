@@ -11,9 +11,9 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 "The problem with the world is that everyone is a few drinks behind:beer:." ~ Humphrey Bogart
 
-###Connect with me 🔗
+### Connect with me 🔗
 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/darshan-k-s/)
+[![LinkedIn]()](https://www.linkedin.com/in/darshan-k-s/)
 
 
 
