@@ -2,7 +2,13 @@
 I'm Darshan K S, I'm currently studying CSE in Manipal Institute of Technology.
 
 I'm a robotics enthusiast :gear: and currently pursuing Full Stack development :computer:. 
+
 ###
+
+- 🌱 I’m currently learning Javascript and frameworks.
+
+"The problem with the world is that everyone is a few drinks behind." ~ Humphrey Bogart
+
 
 
 <!--
