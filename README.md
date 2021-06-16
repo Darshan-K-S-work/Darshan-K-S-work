@@ -11,7 +11,7 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 "The problem with the world is that everyone is a few drinks behind:beer:." ~ Humphrey Bogart
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-K-S-work&count_private=true&show_icons=true&theme=chartreuse-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-K-S-work&count_private=true&show_icons=true&theme=chartreuse-dark) -->
 
 ### Connect with me 🔗
 
