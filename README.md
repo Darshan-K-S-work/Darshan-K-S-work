@@ -11,12 +11,14 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 "The problem with the world is that everyone is a few drinks behind:beer:." ~ Humphrey Bogart
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryamannNingombam&count_private=true&show_icons=true&theme=chartreuse-dark)
+
 ### Connect with me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-k-s/)
 [![GitHub](https://img.shields.io/github/followers/Darshan-K-S-work?style=social
 )](https://github.com/Darshan-K-S-work)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=darshanks.work@gmail.com&su=SUBJECT&body=BODY&bcc=darshanks.work@gmail.com)
+
 
 
 
