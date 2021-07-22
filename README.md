@@ -21,10 +21,14 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-k-s/)
 [![GitHub](https://img.shields.io/github/followers/Darshan-K-S-work?style=social
 )](https://github.com/Darshan-K-S-work)
+---
+<!--  
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-K-S-work&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-K-S-work&langs_count=8&theme=radical)](https://github.com/Darshan-K-S-work)
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darshan-K-S-work&repo=wall-follower-robot&theme=radical)](https://github.com/Darshan-K-S-work/wall-follower-robot)
+-->
 
 
 
