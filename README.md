@@ -5,43 +5,31 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 
 ###
 
-- 🌱 I’m currently learning Javascript and frameworks.
-- 👯 I’m looking to collaborate on front-end Dev.
+- 🌱 I’m currently learning Javascript frameworks.
+- 👯 I’m looking to collaborate on front-end development.
 - ⚡ Fun fact: (I daydream a lot) and I play Basketball :basketball: .
 
 "The problem with the world is that everyone is a few drinks behind:beer:." ~ Humphrey Bogart
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-K-S-work&count_private=true&show_icons=true&theme=chartreuse-dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-K-S-work&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
+
+
 
 
 ### Connect with me 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-k-s/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Darshan%20K%20S-blue?logo=google-chrome)](https://darshan-k-s.github.io/)
 [![GitHub](https://img.shields.io/github/followers/darshan-k-s?style=social)](https://github.com/darshan-k-s)
+[![Linkedin: darshan-k-s](https://img.shields.io/badge/-Darshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshan-k-s/)](https://www.linkedin.com/in/darshan-k-s/)
+
+
 ---
-<!--  
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-K-S-work&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-K-S-work&langs_count=8&theme=radical)](https://github.com/Darshan-K-S-work)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darshan-K-S-work&repo=wall-follower-robot&theme=radical)](https://github.com/Darshan-K-S-work/wall-follower-robot)
--->
 
 
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-k-s&count_private=false&show_icons=true&theme=react) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-k-s&theme=react&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
-**Darshan-K-S-work/Darshan-K-S-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=wall-follower-robot&theme=react)](https://github.com/darshan-k-s/wall-follower-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=darshan-k-s.github.io&theme=react)](https://github.com/darshan-k-s/darshan-k-s.github.io)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
