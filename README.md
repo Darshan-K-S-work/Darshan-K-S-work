@@ -30,6 +30,8 @@ I'm a robotics enthusiast 🤖 and currently pursuing Full Stack development :co
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-k-s&theme=react&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=wall-follower-robot&theme=react)](https://github.com/darshan-k-s/wall-follower-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=list-maker&theme=react)](https://github.com/darshan-k-s/list-maker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=waypoint-nav-bot&theme=react)](https://github.com/darshan-k-s/waypoint-nav-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=darshan-k-s.github.io&theme=react)](https://github.com/darshan-k-s/darshan-k-s.github.io)
 
 
