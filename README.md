@@ -23,6 +23,6 @@ I'm a robotics enthusiast and I'm currently pursuing Full Stack development :com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=wall-follower-robot&theme=react)](https://github.com/darshan-k-s/wall-follower-robot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=list-maker&theme=react)](https://github.com/darshan-k-s/list-maker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=waypoint-nav-bot&theme=react)](https://github.com/darshan-k-s/waypoint-nav-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan-k-s&repo=darshan-k-s.github.io&theme=react)](https://github.com/darshan-k-s/darshan-k-s.github.io)
+
 
 
