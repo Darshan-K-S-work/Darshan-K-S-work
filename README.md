@@ -1,7 +1,7 @@
 ## How you Doin. I'm Darshan <img src="https://i.imgur.com/veZrcC7.gif" alt=":cat:" width="50" />
 I'm Darshan K S, currently enrolled in BTech program in CSE at Manipal Institute of Technology.
 
-I'm a robotics enthusiast and I'm currently pursuing Full Stack development :computer:. 
+I'm a robotics enthusiast interested in end-end system development. 
 
 ###
 
